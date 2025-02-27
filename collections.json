@@ -1,0 +1,70 @@
+{
+  "collections": [
+    {
+      "id": "1",
+      "provider": "Todd Antony",
+      "title": "Todd Antony - Flying Stars",
+      "description": "Award-winning series capturing the Flying Stars amputee football team of Sierra Leone.",
+      "popularity": 4.9,
+      "model": "subscription",
+      "price": "£1,999",
+      "image": "1.jpg",
+      "tags": ["Documentary", "Sports", "Social Impact"],
+      "website": "https://www.toddantony.com/",
+      "contact": "info@toddantony.com"
+    },
+    {
+      "id": "2",
+      "provider": "Julia Fullerton-Batten",
+      "title": "Julia Fullerton-Batten - Fine Art Collection",
+      "description": "A curated collection of Julia's acclaimed fine art photography projects.",
+      "popularity": 4.8,
+      "model": "one-time",
+      "price": "£2,499",
+      "image": "2.jpg",
+      "tags": ["Fine Art", "Conceptual", "Portrait"],
+      "website": "https://www.juliafullerton-batten.com/",
+      "contact": "info@juliafullerton-batten.com"
+    },
+    {
+      "id": "3",
+      "provider": "Liam Arthur",
+      "title": "Liam Arthur - Fashion & Beauty Portfolio",
+      "description": "High-end fashion and beauty photography from AOP award-winning photographer Liam Arthur.",
+      "popularity": 4.7,
+      "model": "subscription",
+      "price": "£1,799",
+      "image": "3.jpg",
+      "tags": ["Fashion", "Beauty", "Editorial"],
+      "website": "https://www.liamarthur.com/",
+      "contact": "info@liamarthur.com"
+    },
+    {
+      "id": "4",
+      "provider": "Drew Gardner",
+      "title": "Drew Gardner - Historical Descendants",
+      "description": "Unique series featuring descendants of historical figures, including Frederick Douglass.",
+      "popularity": 4.6,
+      "model": "one-time",
+      "price": "£2,199",
+      "image": "4.jpg",
+      "tags": ["Portrait", "Historical", "Conceptual"],
+      "website": "https://www.drewgardner.com/",
+      "contact": "info@drewgardner.com"
+    },
+    {
+      "id": "5",
+      "provider": "Alys Tomlinson",
+      "title": "Alys Tomlinson - Award-Winning Series",
+      "description": "Collection featuring Alys Tomlinson's critically acclaimed work, including Taylor Wessing prize-winning images.",
+      "popularity": 4.8,
+      "model": "subscription",
+      "price": "£1,899",
+      "image": "5.jpg", 
+      "tags": ["Documentary", "Portrait", "Fine Art"],
+      "website": "https://www.alystomlinson.co.uk/",
+      "contact": "info@alystomlinson.co.uk"
+    }
+  ]
+}
+

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CaptureMart - Your AI-Ready Content Collection Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <a href="https://numbersprotocol.io" class="logo">CaptureMart</a>
+                <div class="nav-links">
+                    <a href="#" class="nav-link">About</a>
+                </div>
+                <div class="buttons">
+                    <a href="#" class="btn btn-outline">Log in</a>
+                    <a href="#" class="btn btn-primary" style="min-width: 100px;">Sign up</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1 class="page-title">Your AI-Ready Content Collection Platform</h1>
+            <p class="page-desc">Browse through our curated collection of high-quality AI-ready content from trusted providers</p>
+        </div>
+    </section>
+
+    <section class="collection">
+        <div class="container">
+            <div class="search-container">
+                <input type="text" class="search-box" placeholder="Tell AI what data you need.">
+                <span class="search-icon">🔍</span>
+            </div>
+            
+            <div class="dataset-grid" id="dataset-container">
+        <!-- Dataset cards will be dynamically inserted here -->
+        <div class="loading">Loading datasets...</div>
+    </div>
+
+    <script src="collections.js"></script>
+</body>
+</html>

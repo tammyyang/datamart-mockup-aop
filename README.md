@@ -1,2 +1,2 @@
-# datamart-mockup-aop
-Mockup data marketplace for AOP
+# data-mart-mockup
+Mockup repository for the data marketplace
