@@ -359,7 +359,7 @@ header {
 }
 
 footer {
-    background-color: var(--dark-text);
+    background-color: var(--white);
     color: var(--white);
     padding: 4rem 0 2rem;
 }
@@ -412,7 +412,7 @@ footer {
 }
 
 .footer {
-    background-color: var(--dark-text);
+    background-color: var(--white);
     color: var(--white);
     padding: 1rem 0;
     text-align: center;
@@ -422,6 +422,7 @@ footer {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 1.5rem;
+    text-align: center;
 }
 
 .footer p {
