@@ -412,7 +412,7 @@ footer {
 }
 
 .footer {
-    background-color: var(--white);
+    background-color: var(--light-bg);
     color: var(--white);
     padding: 1rem 0;
     text-align: center;
